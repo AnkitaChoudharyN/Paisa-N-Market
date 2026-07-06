@@ -1,4 +1,4 @@
-# Firebase Studio
+# Paisa-N-Market
 
 This is a NextJS starter in Firebase Studio.
 
